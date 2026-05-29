@@ -1,0 +1,25 @@
+// Barrel — single import point for all screens
+export { default as Splash } from "./Splash.jsx";
+export { default as UserType } from "./UserType.jsx";
+export { default as Login } from "./Login.jsx";
+export { default as Forgot } from "./Forgot.jsx";
+export { default as Signup } from "./Signup.jsx";
+export { default as Home } from "./Home.jsx";
+export { default as Location } from "./Location.jsx";
+export { default as Notifications } from "./Notifications.jsx";
+export { default as Account } from "./Account.jsx";
+export { default as VinScan } from "./VinScan.jsx";
+export { default as VinReport } from "./VinReport.jsx";
+export { default as SelectMechanic } from "./SelectMechanic.jsx";
+export { default as Confirm } from "./Confirm.jsx";
+export { default as Tracking } from "./Tracking.jsx";
+export { default as Report } from "./Report.jsx";
+export { default as Stores } from "./Stores.jsx";
+export { default as StoreBook } from "./StoreBook.jsx";
+export { default as Trust } from "./Trust.jsx";
+export { default as Escrow } from "./Escrow.jsx";
+export { default as Warranty } from "./Warranty.jsx";
+export { default as Referral } from "./Referral.jsx";
+export { default as History } from "./History.jsx";
+export { default as MechDash } from "./MechDash.jsx";
+export { default as Pitch } from "./Pitch.jsx";
