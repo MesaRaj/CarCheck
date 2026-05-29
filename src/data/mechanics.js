@@ -1,0 +1,36 @@
+// Certified CarCheck mechanics. Each becomes a card in the "Pick mechanic" screen.
+export const MECHANICS = [
+  {
+    id: 1,
+    name: "Ravi Teja Konda",
+    initials: "RK",
+    specialty: "Maruti & Hyundai Expert",
+    rating: 4.9,
+    reviews: 1284,
+    experience: 12,
+    eta: "30 min",
+    price: 899,
+  },
+  {
+    id: 2,
+    name: "Mohammed Imran",
+    initials: "MI",
+    specialty: "Sedans & SUVs",
+    rating: 4.8,
+    reviews: 892,
+    experience: 9,
+    eta: "45 min",
+    price: 799,
+  },
+  {
+    id: 3,
+    name: "Suresh Naidu",
+    initials: "SN",
+    specialty: "Tata & Mahindra",
+    rating: 4.7,
+    reviews: 564,
+    experience: 7,
+    eta: "1 hr",
+    price: 749,
+  },
+];
